@@ -1,0 +1,50 @@
+=====Piele Mihai Teodor=====
+==========321 CBa ==========
+
+Detaliile fiecarei functii se afla deasupra
+fiecarei functii in parte.
+Functiilor mai simple, de ex no_steps (rand 100),
+nu le-am mai facut comentarii cu explicatii, deoarece
+ori erau prea simple, ori mi-era lene ca erau prea simple :)
+Pentru o mai usoara implementare si folosire a functiilor,
+am incercat sa creez cat mai multe functii, care sa faca
+codul si citirea acestuia mai usoare.
+Ultimele 2 taskuri, au fost foarte usor de implementat,
+dar cred ca erau nevoie de mai multe explicatii ale lui,
+pentru o mai usoara intelegere a cerintei.
+De asemenea, task-ul 6 a fost ca un...well...task 4, dar
+pe steroizi :P
+De asemenea, am incercat, un chaellenge pt mine, nu stiu
+daca a fost bine, dar am incercat sa fac tema fara fold-uri,
+ceea ce nu a fost dificil si a fost destul de fun.
+In concluzie tema a fost ok.
+
+Paste fericit, va doresc!!!
+
+=======Hello Again o/=======
+
+Am crezut ca explicatiile sunt aiurea asa ca look:
+    -> pt task 1 mi am facut 3 functii separate de comparatie (dupa am realizat
+    ca cea de float lucra si pe inturi, dar aia este)
+        * am mai creat o functie care mi returneaza pozitia elementului din lista
+        * dupa ce aflu pe ce pozitie se afla coloana mea, trec pe randul urmator si 
+        vad ce am pe poztia respectiva string,int sau float
+
+    -> pt task 2 am comparat headerele (cred ca am scris corect) tabelelor, iar daca
+        acestea erau identice uneam tabelele eliminand header ul de la a 2  a
+
+    -> pt task 3 mi am facut o functie care-mi creaza o lista de stringuri goale,
+     cu un nr de elemenete calculat cu o functie care innumara cate elemente are o lista
+     din tabela.
+        * dupa am scazut lungimile tabelelor si am aflat cate randuri (liste cu stringuri goale)
+        mai trebuie adaugate.
+
+    -> pt task 4, mi pare sorry, doesn't exist etapa asta 
+
+    -> pt task 5 aplic functia (Row -> Row -> Row) pe primul rand din prima tabela si toata 
+        tabela a 2 a si fac asta pt fiecare rand din prima tabela
+
+    -> pt task 6 am extras coloana cu elementele de care am nevoie si le-am pus intr-o tabela noua
+
+    -> pt task 7, aplic functia filter pe toata tabela, si ma uit daca elementul corespunzator pozitiei numelui coloanei indeplineste conditia
+    
